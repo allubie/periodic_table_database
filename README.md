@@ -1,2 +1,2 @@
 # periodic_table_database
-periodic table database submission
+Submission for the freeCodeCamp Relational Database project.
